@@ -13,11 +13,14 @@
 	"dependencies": {
 		"axios": "^1.13.0",
 		"cheerio": "^1.1.2",
+		"cors": "^2.8.5",
+		"dotenv": "^17.2.3",
 		"express": "^5.1.0"
 	},
 	"devDependencies": {
 		"@types/axios": "^0.9.36",
 		"@types/cheerio": "^0.22.35",
+		"@types/cors": "^2.8.19",
 		"@types/express": "^5.0.5",
 		"@types/nodemon": "^1.19.6",
 		"nodemon": "^3.1.10",
